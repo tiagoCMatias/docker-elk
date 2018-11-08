@@ -1,0 +1,12 @@
+2018-11-07 16:55:15,764       WARNING   log                  Not Found: /favicon.ico
+2018-11-07 16:55:15,765       WARNING   basehttp             "GET /favicon.ico HTTP/1.1" 404 2095
+2018-11-07 16:55:18,246       INFO      Api                  Heartbeat - Tracking is Logging
+2018-11-07 16:55:18,248       INFO      basehttp             "GET /api/tracking/ HTTP/1.1" 200 88
+2018-11-07 16:55:19,242       INFO      Api                  Heartbeat - Tracking is Logging
+2018-11-07 16:55:19,243       INFO      basehttp             "GET /api/tracking/ HTTP/1.1" 200 88
+2018-11-07 16:55:20,891       INFO      Api                  Heartbeat - Tracking is Logging
+2018-11-07 16:55:20,893       INFO      basehttp             "GET /api/tracking/ HTTP/1.1" 200 88
+2018-11-07 16:55:21,849       INFO      Api                  Heartbeat - Tracking is Logging
+2018-11-07 16:55:21,849       INFO      basehttp             "GET /api/tracking/ HTTP/1.1" 200 88
+2018-11-07 16:55:22,840       INFO      Api                  Heartbeat - Tracking is Logging
+2018-11-07 16:55:22,841       INFO      basehttp             "GET /api/tracking/ HTTP/1.1" 200 88
